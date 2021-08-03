@@ -1,0 +1,7 @@
+F:\Projects\ASP.Net\WindowsKeylogger\bin\Debug\WindowsKeylogger.exe.config
+F:\Projects\ASP.Net\WindowsKeylogger\bin\Debug\WindowsKeylogger.exe
+F:\Projects\ASP.Net\WindowsKeylogger\bin\Debug\WindowsKeylogger.pdb
+F:\Projects\ASP.Net\WindowsKeylogger\obj\Debug\WindowsKeylogger.csproj.AssemblyReference.cache
+F:\Projects\ASP.Net\WindowsKeylogger\obj\Debug\WindowsKeylogger.csproj.CoreCompileInputs.cache
+F:\Projects\ASP.Net\WindowsKeylogger\obj\Debug\WindowsKeylogger.exe
+F:\Projects\ASP.Net\WindowsKeylogger\obj\Debug\WindowsKeylogger.pdb
